@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://gfabrici0.github.io/fonts/icomoon.eot?y06dk2');
-  src:  url('https://gfabrici0.github.io/fonts/icomoon.eot?y06dk2#iefix') format('embedded-opentype'),
-    url('https://gfabrici0.github.io/fonts/icomoon.ttf?y06dk2') format('truetype'),
-    url('https://gfabrici0.github.io/fonts/icomoon.woff?y06dk2') format('woff'),
-    url('https://gfabrici0.github.io/fonts/icomoon.svg?y06dk2#icomoon') format('svg');
+  src:  url(https://gfabrici0.github.io/range_hotels/icomoon.eot?y06dk2);
+  src:  url(https://gfabrici0.github.io/range_hotels/icomoon.eot?y06dk2#iefix) format('embedded-opentype'),
+    url(https://gfabrici0.github.io/range_hotels/icomoon.ttf?y06dk2) format('truetype'),
+    url(https://gfabrici0.github.io/range_hotels/icomoon.woff?y06dk2) format('woff'),
+    url(https://gfabrici0.github.io/range_hotels/icomoon.svg?y06dk2#icomoon) format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
